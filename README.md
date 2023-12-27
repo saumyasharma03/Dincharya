@@ -5,15 +5,14 @@ Captcha for human Verification:
 Welcome:
 ![image](https://github.com/saumyasharma03/Dincharya/assets/143929552/4438e782-0dd1-4791-85cc-d9dfa4b12188)
 
-Sign up:
-![image](https://github.com/saumyasharma03/Dincharya/assets/143929552/00ebc80a-7d43-4b91-9408-3b6f43825065)
+Sign up and
 Login :
 ![image](https://github.com/saumyasharma03/Dincharya/assets/143929552/ba06ae41-7121-4cd6-aea0-d1bef9fd1d67)
-
-Profile:
 ![image](https://github.com/saumyasharma03/Dincharya/assets/143929552/21ad6c95-d3da-458f-8390-bc77f450399b)
 
-Selected Option 1:
+
+Profile:
+(Selected Option 1)
 ![image](https://github.com/saumyasharma03/Dincharya/assets/143929552/63e666c9-a2f5-4407-88ff-96c62404b6c9)
 Map of the Noida with JIIT, sector 62 as the start point (USING GRAPH):
 ![image](https://github.com/saumyasharma03/Dincharya/assets/143929552/8b90c4ef-9d8f-4bc4-814f-6cb686ad3c9d)
