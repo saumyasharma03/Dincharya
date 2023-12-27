@@ -1,5 +1,6 @@
-# Dincharya
+# Dincharya Project Credits: @saumyasharma03 and Aman Tyagi
 Habit Tracking program that helps you plan your events att different locations regardless of the occasion, plan your weekly schedule, create to-do list and save them in your computer!
+
 
 Captcha for human Verification:
 ![image](https://github.com/saumyasharma03/Dincharya/assets/143929552/75889556-0b68-43e9-839e-4043d7fb4d33)
@@ -36,7 +37,7 @@ Stores your weekly plans:
 Stores the login credentials:
 ![image](https://github.com/saumyasharma03/Dincharya/assets/143929552/5833cbd5-0fdb-48f4-a02a-2348fc72516a)
 
-Project Credit: @saumyasharma03 and Aman Tyagi
+
 
 
 
