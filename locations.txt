@@ -1,0 +1,35 @@
+Location: 3rd Wave Coffee
+Location Category: r
+Event Name: Travelling plan
+Event Day: Monday
+Event Timings: 12
+Location: A.I.I.M.S. hospital
+Location Category: h
+Event Name: Travelling plan
+Event Day: Monday
+Event Timings: 18
+Location: A.I.I.M.S. hospital
+Location Category: h
+Event Name: Travelling plan
+Event Day: Sunday
+Event Timings: 15
+Location: Akshardham
+Location Category: t
+Event Name: Travelling plan
+Event Day: Monday
+Event Timings: 13
+Location: A.I.I.M.S. hospital
+Location Category: h
+Event Name: Travelling plan
+Event Day: Monday
+Event Timings: 13
+Location: Fortis Hospital
+Location Category: h
+Event Name: Travelling plan
+Event Day: Monday
+Event Timings: 12
+Location: Fortis Hospital
+Location Category: h
+Event Name: Travelling plan
+Event Day: Monday
+Event Timings: 12
