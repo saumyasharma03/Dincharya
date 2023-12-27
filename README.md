@@ -1,5 +1,8 @@
 # Dincharya 
 Project Credits: @saumyasharma03 and Aman Tyagi
+
+
+
 Habit Tracking program that helps you plan your events att different locations regardless of the occasion, plan your weekly schedule, create to-do list and save them in your computer!
 
 
