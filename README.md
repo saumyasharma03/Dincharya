@@ -2,11 +2,12 @@
 
 Captcha for human Verification:
 ![image](https://github.com/saumyasharma03/Dincharya/assets/143929552/75889556-0b68-43e9-839e-4043d7fb4d33)
+
 Welcome:
 ![image](https://github.com/saumyasharma03/Dincharya/assets/143929552/4438e782-0dd1-4791-85cc-d9dfa4b12188)
 
-Sign up and
-Login :
+Sign up and Login :
+
 ![image](https://github.com/saumyasharma03/Dincharya/assets/143929552/ba06ae41-7121-4cd6-aea0-d1bef9fd1d67)
 ![image](https://github.com/saumyasharma03/Dincharya/assets/143929552/21ad6c95-d3da-458f-8390-bc77f450399b)
 
@@ -27,6 +28,13 @@ Perform various operations:
 ![image](https://github.com/saumyasharma03/Dincharya/assets/143929552/825cab37-0e79-41f9-bad9-a44b63fe7e1f)
 To-do list using Queue: 
 ![image](https://github.com/saumyasharma03/Dincharya/assets/143929552/95a1904d-ad92-4ac1-b278-03fcaac2f986)
+
+File Handling:
+Stores your weekly plans:
+![image](https://github.com/saumyasharma03/Dincharya/assets/143929552/05ee0dcf-86c2-426b-8579-c1d68fc93674)
+Stores the login credentials:
+![image](https://github.com/saumyasharma03/Dincharya/assets/143929552/5833cbd5-0fdb-48f4-a02a-2348fc72516a)
+
 
 
 
